@@ -1,0 +1,19 @@
+package com.andrewknell.firstproject;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@RestController
+@RequestMapping("/hello")
+public class HomeController {
+	@RequestMapping("/")
+	public String hello() {
+		return "hello how are you?";
+	}
+	
+	@RequestMapping("/world")
+	public String random() {
+		return "this is cool too";
+	}
+}
