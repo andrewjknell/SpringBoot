@@ -18,7 +18,7 @@ public class DojoControl {
 		else if(dojo.equals("san-jose")) {
 			return "san jose is the best";
 		} else {
-			return "try again" + dojo;
+			return "try again";
 		}
 	}
 	
