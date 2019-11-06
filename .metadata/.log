@@ -1426,3 +1426,93 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 18:37:52.119
 !MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.030
+!MESSAGE Preparing classpath changed notification NinjaGold
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.034
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.044
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.045
+!MESSAGE buffering callback sts4.classpath.UoMMqDMs NinjaGold false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.046
+!MESSAGE executing callback sts4.classpath.UoMMqDMs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.069
+!MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.529
+!MESSAGE Preparing classpath changed notification NinjaGold
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.530
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.538
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.556
+!MESSAGE buffering callback sts4.classpath.UoMMqDMs NinjaGold false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.557
+!MESSAGE executing callback sts4.classpath.UoMMqDMs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:27.563
+!MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.867
+!MESSAGE Preparing classpath changed notification NinjaGold
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.868
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.876
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.882
+!MESSAGE buffering callback sts4.classpath.UoMMqDMs NinjaGold false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.883
+!MESSAGE executing callback sts4.classpath.UoMMqDMs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.891
+!MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.996
+!MESSAGE Preparing classpath changed notification NinjaGold
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:28.997
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.006
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.011
+!MESSAGE buffering callback sts4.classpath.UoMMqDMs NinjaGold false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.012
+!MESSAGE executing callback sts4.classpath.UoMMqDMs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.016
+!MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.097
+!MESSAGE Preparing classpath changed notification NinjaGold
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.115
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.121
+!MESSAGE buffering callback sts4.classpath.UoMMqDMs NinjaGold false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.121
+!MESSAGE executing callback sts4.classpath.UoMMqDMs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 08:04:29.125
+!MESSAGE executing callback sts4.classpath.UoMMqDMs SUCCESS [done]
