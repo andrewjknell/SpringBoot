@@ -1,0 +1,22 @@
+h1{
+	color:gold;
+	margin: 2% 0 0 2%
+}
+#golding{
+	border: solid black 2px;
+	padding: 1%;
+	margin-right: 700px;
+	width: 100px;
+}
+#title{
+	display:inline-block;
+}
+.getGold{
+	display:inline-block;
+	height: 250px;
+	width: 20%;
+	margin-left: 1%;
+	margin-top:3%;
+	border: black solid 2px;
+	padding-left: 1%;
+}
